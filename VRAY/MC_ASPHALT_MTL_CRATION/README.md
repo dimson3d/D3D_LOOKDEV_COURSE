@@ -4,7 +4,7 @@ Master class **CREATING ASHPALT MATERIAL. DEVELOPMENT AND CREATING MULTILAYERED 
 <br/>
 <br>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/dimson3d/D3D_LOOKDEV_COURSE/main/VRAY/MC_ASPHALT_MTL_CRATION/ASPHALT_MTL_HEADER_RENDER_V101.png" width="70%" title="header image"/>
+    <img src="https://raw.githubusercontent.com/dimson3d/D3D_LOOKDEV_COURSE/main/VRAY/MC_ASPHALT_MTL_CRATION/ASPHALT_MTL_HEADER_RENDER_V101.png" width="50%" title="header image"/>
 </p>
 <br/>
 List of materials.
@@ -13,7 +13,7 @@ List of materials.
 
 **[Example scene (Maya 2022, *.ma)](https://github.com/dimson3d/D3D_LOOKDEV_COURSE/blob/main/VRAY/MC_ASPHALT_MTL_CRATION/MC_ASPHALT_MATERIAL_SCENE_V101.ma)**
 
-Links to textures (textures.com portal)
+Links to textures
 
 **[TexturesCom_Asphalt10_2x2](https://textures.com/download/3DScans0604/138015)**
 
@@ -24,5 +24,11 @@ Links to textures (textures.com portal)
 **[winter_river_8k from Poly Haven (HDRI Haven)](https://polyhaven.com/)**
 
 Custom textures from author you can download from [TEXTURES folder](https://github.com/dimson3d/D3D_LOOKDEV_COURSE/blob/main/VRAY/MC_ASPHALT_MTL_CRATION/TEXTURES)
+
+<br>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/dimson3d/D3D_LOOKDEV_COURSE/main/VRAY/MC_ASPHALT_MTL_CRATION/ASPHALT_MTL_LOOKDEV_RENDER_R20211122_V101.1001.png" width="50%" title="material test render"/>
+</p>
+<br/>
 
 Author: Dmitry dimson3d Chekhlov (c) 2021 | version 1.01.2021-11-28
