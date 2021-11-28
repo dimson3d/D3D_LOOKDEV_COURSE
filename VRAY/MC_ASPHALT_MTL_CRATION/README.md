@@ -11,7 +11,7 @@ List of materials.
 
 **[Presentation (pdf)](https://github.com/dimson3d/D3D_LOOKDEV_COURSE/blob/main/VRAY/MC_ASPHALT_MTL_CRATION/ASPHALT_MATERIAL_CREATION_VRAY5_PRESENTATION_comp.pdf)**
 
-**[Example scene (Maya 2022, *.ma)](https://github.com/dimson3d/D3D_LOOKDEV_COURSE/blob/main/VRAY/MC_ASPHALT_MTL_CRATION/MC_ASPHALT_MATERIAL_SCENE_V101.ma)**
+**[Example scene (Maya 2022, V-Ray 5 for Maya, *.ma)](https://github.com/dimson3d/D3D_LOOKDEV_COURSE/blob/main/VRAY/MC_ASPHALT_MTL_CRATION/MC_ASPHALT_MATERIAL_SCENE_V101.ma)**
 
 Links to textures
 
