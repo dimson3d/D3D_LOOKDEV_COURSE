@@ -29,3 +29,6 @@ But what the 3D industry as a whole gains from our work being so freely availabl
 We don't have anything against Copyright in general, we simply believe we can do more good in the world by providing as much freedom as possible.
 
 If you benefit from our work financially, e.g. by including our assets in a product you sell, or simply make frequent use of them in your own work, please consider supporting us on Patreon with a small monthly donation in order to help us continue to produce more assets and maintain this platform.
+
+POLYHAVEN: https://polyhaven.com/
+License page: https://polyhaven.com/license
