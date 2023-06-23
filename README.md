@@ -1,7 +1,7 @@
 # D3D_LOOKDEV_COURSE
 Project files for cg courses from dimson3d about lookdevelopment and rendering technologies with sourses.
 
-![Reference render image for SpyderChekr Colours](BLENDER/DATACOLOR_SPYDERCHEKR_REFERENCE/BLENDER_EDITION/DC_SPYDERCHEKR_render_result_8bit_int_V20230616_101.png)
+![Reference render image for SpyderChekr Colours](BLENDER/DATACOLOR_SPYDERCHEKR_REFERENCE/BLENDER_EDITION/DC_SPYDERCHEKR_render_result_8bit_int_V20230616_104_4K.png)
 
 List of Courses (on Russian language):
 * Course about LookDevelopment and rendering basics in Blender 3.3 LTS you can get from page [Rendering in Blender: Basic](https://bim.vc/edu/courses/vizualizatsiya-v-blender-bazovyy/)
